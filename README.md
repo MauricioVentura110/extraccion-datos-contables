@@ -42,8 +42,10 @@ Para ejecutarlo:
    pip install pandas
 
 ---
-### ⚠️ Nota sobre los datos
-Por motivos de confidencialidad, los archivos XML reales **no se incluyen** en este repositorio.  
-Los datos son sensibles. Se está trabajando en la creación XML ficticios. 
+
+## Nota importante sobre los datos
+
+Por motivos de confidencialidad, los archivos XML reales **no se incluyen** en este repositorio. Los datos son sensibles. Se está trabajando en la creación XML ficticios. 
+
 ---
 
